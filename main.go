@@ -4,7 +4,7 @@ import (
 	"context"
 	"log"
 
-	pb "github.com/EwanValentine/shippy-user-service/proto/user"
+	pb "github.com/inigofu/shippy-user-service/proto/auth"
 	micro "github.com/micro/go-micro"
 )
 
